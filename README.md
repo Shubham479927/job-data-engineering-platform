@@ -192,3 +192,32 @@ job-data-engineering-platform/
 
 └── README.md
 
+```
+
+## Power BI Dashboard
+
+The interactive Power BI dashboard provides an overview of the collected job-market data.
+
+![Job Data Analytics Dashboard](dashboard.png)
+
+### Dashboard Insights
+
+The dashboard covers:
+
+- 346 total job listings
+- 185 companies
+- Job distribution by source
+- Job distribution by experience level
+- Employment type analysis
+- Top job locations
+- Jobs posted over time
+- Remote vs location-specified jobs
+- Source-wise location analysis
+
+Interactive slicers allow filtering by:
+
+- Job Source
+- Location
+- Employment Type
+- Experience Level
+
